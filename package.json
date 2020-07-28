@@ -1,0 +1,22 @@
+{
+  "name": "CovidTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YousafRaja/CovidTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YousafRaja/CovidTracker/issues"
+  },
+  "homepage": "https://github.com/YousafRaja/CovidTracker#readme"
+}
