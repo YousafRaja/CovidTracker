@@ -2,7 +2,7 @@
 
 # CovidTracker
 
-# What it is this?
+# What is this?
 This little web app combines the Google Maps API with covid-19 tracking APIs to create a map that places markers on every US states. Upon clicking the marker, you'll see the total number of positivie cases in that state.  
 
 # Design
