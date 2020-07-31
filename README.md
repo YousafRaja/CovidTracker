@@ -10,7 +10,7 @@ I picked US states because they had enough API support. I needed an API that wou
 I used the react framework from which I made the asynchronous API calls.
 
 # How to run
-npm install
-npm run build
-npm start 
+- npm install
+- npm run build
+- npm start 
 
