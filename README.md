@@ -1,3 +1,5 @@
+![Image of Project](https://github.com/YousafRaja/CovidTracker/blob/master/screenshot.png)
+
 # CovidTracker
 
 # What it is this?
@@ -12,5 +14,3 @@ npm install
 npm run build
 npm start 
 
-
-![Image of Project](https://github.com/YousafRaja/CovidTracker/blob/master/screenshot.png)
